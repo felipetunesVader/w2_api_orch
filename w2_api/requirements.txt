@@ -43,3 +43,5 @@ fastapi
 uvicorn[standard]
 pillow  # Para manipulação de imagens, caso necessário
 python-multipart
+python-jose
+passlib
